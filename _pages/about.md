@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome to my personal webpage! I am Andrea Pandolfi, a first year PhD student in Statistics and Computer Science at [Bocconi University](https://www.unibocconi.it/wps/wcm/connect/bocconi/sitopubblico_it/albero+di+navigazione/home).   
-For any information, feel free to e-mail me at: [andrea.pandolfi2@phd.unibocconi.it](andrea.pandolfi2@phd.unibocconi.it)
+For any information, feel free to e-mail me at: <andrea.pandolfi2@phd.unibocconi.it>
 
 Research Interest
 ======
