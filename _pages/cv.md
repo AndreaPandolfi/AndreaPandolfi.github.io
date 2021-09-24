@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
+* 2020-current: PhD in Statistics and Computer Science (English), Bocconi University (Italy)
+* 2019-2021: M.Sc. in Stochastics and Data Science (English), Università degli Studi di Torino (Italy)
+  - hi
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
