@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* 2020-current: PhD in Statistics and Computer Science (English), Bocconi University (Italy)
-* 2019-2021: M.Sc. in Stochastics and Data Science (English), Università degli Studi di Torino (Italy)  
+* 2020 - Current: PhD in Statistics and Computer Science (English), Bocconi University (Italy)
+* 2019 - 2021: M.Sc. in Stochastics and Data Science (English), Università degli Studi di Torino (Italy)  
 Grade: 110/110 "cum laude, with mention"
   - Graduation project: "A comparison of Wright-Fisher dualities for filtering"  
   Supervisor: Mattero Ruggiero (Università degli Studi di Torino)
 
-* 2019-2021: M.Sc. in Statistics and Applied Mathematics, Collegio Carlo Alberto, Turin (Italy)
-* 2016-2019: Laurea (B.Sc.) in Matematica,  Università degli Studi di Milano (Italy)  
+* 2019 - 2021: M.Sc. in Statistics and Applied Mathematics, Collegio Carlo Alberto, Turin (Italy)
+* 2016 - 2019: Laurea (B.Sc.) in Matematica,  Università degli Studi di Milano (Italy)  
 Grade: 110/110 "cum laude"
 
 Work experience
