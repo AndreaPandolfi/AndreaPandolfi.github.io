@@ -34,10 +34,10 @@ IT Skills
   * Python (good)
   * C, Matlab (basic)
  * Other languages:
-  - SQL (good)
-  - Latex (very good)
+   - SQL (good)
+   - Latex (very good)
  * Sofware:
-  - Office (good)
+   - Office (good)
 
 
   
