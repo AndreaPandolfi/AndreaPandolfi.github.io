@@ -35,7 +35,7 @@ IT Skills
   * C, Matlab (basic)
  * Other languages:
   - SQL (good)
-  * Latex (very good)
+  - Latex (very good)
  * Sofware:
   - Office (good)
 
