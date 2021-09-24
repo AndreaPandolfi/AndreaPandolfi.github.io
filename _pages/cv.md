@@ -12,8 +12,9 @@ redirect_from:
 Education
 ======
 * 2020-current: PhD in Statistics and Computer Science (English), Bocconi University (Italy)
-* 2019-2021: M.Sc. in Stochastics and Data Science (English), Università degli Studi di Torino (Italy)
-  - hi
+* 2019-2021: M.Sc. in Stochastics and Data Science (English), Università degli Studi di Torino (Italy)  
+Grade: 110/110 "cum laude, with mention"
+  - Graduation project
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
