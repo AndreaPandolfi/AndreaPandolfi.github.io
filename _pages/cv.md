@@ -23,15 +23,8 @@ Grade: 110/110 "cum laude"
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2021 - September 2021: Teaching assistance at Università degli Studi di Torino (Italy)
+* March 2016 - April 2016: Teaching assistance at Liceo Scientifico Galileo Galilei, Caravaggio (Italy)
   
 Skills
 ======
