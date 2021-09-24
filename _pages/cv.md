@@ -26,33 +26,22 @@ Work experience
 * January 2021 - September 2021: Teaching assistance at Università degli Studi di Torino (Italy)
 * March 2016 - April 2016: Teaching assistance at Liceo Scientifico Galileo Galilei, Caravaggio (Italy)
   
-Skills
+IT Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages:
+  * Julia (very good)
+  * R (very good)
+  * Python (good)
+  * C, Matlab (basic)
+ * Other languages:
+  * SQL (good)
+  * Latex (very good)
+ * Sofware:
+  * Office (good)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
-Talks
+Language Skills
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Italian: mother tongue
+- English: Cambridge First Certificate B2
