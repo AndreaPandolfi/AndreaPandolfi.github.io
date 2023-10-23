@@ -1,5 +1,5 @@
 ---
-title: "Statistics - 300001 (Fall 2022)"
+title: "Statistics - Fall 2022"
 collection: teaching
 type: "Undergraduate course"
 venue: "Bocconi University"
