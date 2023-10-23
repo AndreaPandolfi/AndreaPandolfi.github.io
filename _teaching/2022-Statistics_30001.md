@@ -2,7 +2,7 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
-permalink: [2022-Statistics_30001]([https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30001&anno=2023&IdPag=6896](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30001&anno=2023&ric_cdl=TR07&IdPag=6896#classe21))
+permalink: [2022-Statistics_30001](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30001&anno=2023&ric_cdl=TR07&IdPag=6896#classe21)
 venue: "Bocconi University"
 date: 2022-10-01
 ---
