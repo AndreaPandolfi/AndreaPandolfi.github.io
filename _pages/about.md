@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal webpage! I am Andrea Pandolfi, a fourth year PhD student in Statistics and Computer Science at [Bocconi University](https://www.unibocconi.it/wps/wcm/connect/bocconi/sitopubblico_it/albero+di+navigazione/home).   
-Should you need any information, feel free to contact me at: <andrea.pandolfi2@phd.unibocconi.it>
+I am a postdoctoral researcher at [ENSAE](https://www.ensae.fr/en), working with [Nicolas Chopin](https://nchopin.github.io/).   
+
+I received my PhD in Statistics and Computer Science at [Bocconi University](https://www.unibocconi.it/en), supervised by [Omiros Papaspiliopoulos](https://www.unibocconi.it/en/faculty/omiros-papaspiliopoulos) and [Giacomo Zanella](https://sites.google.com/site/gzanellawebpage/home).
+
+Should you need any information, feel free to contact me at: <andrea.pandolfi@ensae.fr>
 
