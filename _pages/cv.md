@@ -9,9 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+Academic Positions
+======
+* 2025 - Current: Postoctoral researcher at [ENSAE](https://www.ensae.fr/en/), working with [Nicolas Chopin](https://nchopin.github.io/).
+
 Education
 ======
-* 2020 - Current: PhD in Statistics and Computer Science (English), Bocconi University (Italy)
+* 2020 - 2026: PhD in Statistics and Computer Science, Bocconi University (Italy)
+  Supervisors: [Omiros Papaspiliopoulos](https://www.unibocconi.it/en/faculty/omiros-papaspiliopoulos) and [Giacomo Zanella](https://sites.google.com/site/gzanellawebpage/home)
+  Thesis on "Conjugate Gradient and Alternating Minimization for High-Dimensional Statistical Models"
 * 2019 - 2021: M.Sc. in Stochastics and Data Science (English), Università degli Studi di Torino (Italy)  
 Grade: 110/110 "cum laude, with mention"
   - Graduation project: "A comparison of Wright-Fisher dualities for filtering"  
@@ -23,21 +29,23 @@ Grade: 110/110 "cum laude"
 
 Work experience
 ======
-* January 2021 - September 2021: Teaching assistance at Università degli Studi di Torino (Italy)
-* March 2016 - April 2016: Teaching assistance at Liceo Scientifico Galileo Galilei, Caravaggio (Italy)
+* September 2022 - Present: Teaching activities at Bocconi University.
+* July 2024 - November 2024: Research Assistant for a study on disclosure competition, using eye-tracking measures.
+* January 2021 - September 2021: Teaching assistant at Università degli Studi di Torino (Italy)
+* March 2016 - April 2016: Teaching assistant at Liceo Scientifico Galileo Galilei, Caravaggio (Italy)
   
 IT Skills
 ======
 * Programming Languages:
   * Julia (very good)
   * R (very good)
-  * Python (good)
+  * Python (very good)
   * C, Matlab (basic)
  * Other languages:
    - SQL (good)
    - Latex (very good)
  * Sofware:
-   - Office (good)
+   - Office (very good)
 
 
   
