@@ -15,13 +15,13 @@ Academic Positions
 
 Education
 ======
-* 2020 - 2026: PhD in Statistics and Computer Science, Bocconi University (Italy)
-  Supervisors: [Omiros Papaspiliopoulos](https://www.unibocconi.it/en/faculty/omiros-papaspiliopoulos) and [Giacomo Zanella](https://sites.google.com/site/gzanellawebpage/home)
+* 2020 - 2026: PhD in Statistics and Computer Science, Bocconi University (Italy)  
+  Supervisors: [Omiros Papaspiliopoulos](https://www.unibocconi.it/en/faculty/omiros-papaspiliopoulos) and [Giacomo Zanella](https://sites.google.com/site/gzanellawebpage/home)  
   Thesis on "Conjugate Gradient and Alternating Minimization for High-Dimensional Statistical Models"
 * 2019 - 2021: M.Sc. in Stochastics and Data Science (English), Università degli Studi di Torino (Italy)  
 Grade: 110/110 "cum laude, with mention"
   - Graduation project: "A comparison of Wright-Fisher dualities for filtering"  
-  Supervisor: Mattero Ruggiero (Università degli Studi di Torino)
+  Supervisor: [Mattero Ruggiero](mruggiero.com)
 
 * 2019 - 2021: M.Sc. in Statistics and Applied Mathematics, Collegio Carlo Alberto, Turin (Italy)
 * 2016 - 2019: Laurea (B.Sc.) in Matematica,  Università degli Studi di Milano (Italy)  
