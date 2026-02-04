@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Andrea Pandolfi - Personal Webpage"
 title_separator          : "-"
 name                     : &name "Andrea Pandolfi"
-description              : &description "PhD student in Statistics and Computer Science at Bocconi University"
+description              : &description "Postdoctoral researcher"
 url                      : https://andreapandolfi.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "andreapandolfi.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Andrea Pandolfi"
   avatar           : "profilo.jpeg"
-  bio              : "PhD Student in Statistics and Computer Science"
-  location         : "Milan"
-  employer         : "Bocconi"
+  bio              : "Postdoctoral researcher"
+  location         : "Paris"
+  employer         : "ENSAE"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=gvPZRCwAAAAJ&hl=it"
-  email            : "andrea.pandolfi2@phd.unibocconi.it"
+  email            : "andrea.pandolfi@ensae.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
