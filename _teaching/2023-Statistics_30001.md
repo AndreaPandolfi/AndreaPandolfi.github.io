@@ -1,9 +1,9 @@
 ---
-title: "Statistics (Fall 2023)"
+title: "Statistics (Fall 2022, Fall 2023, Fall 2024)"
 collection: teaching
 type: "Undergraduate course"
 venue: "Bocconi University"
-date: 2023-10-01
+date: 
 ---
 
 TA for the classes CLEAM07 and CLEAM08.
@@ -15,7 +15,6 @@ Description
 
 Intended Learning Outcomes (ILO)
 ======
-At the end of the course student will be able to:
 - Properly summarize a dataset.
 - Estimate, and test hypotheses on, the unknown parameters of a population on the basis of sample data.
 - Build simple statistical models, as regression models, aimed at studying the relationships  between variables of interest.
