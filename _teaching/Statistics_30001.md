@@ -3,10 +3,8 @@ title: "Statistics (Fall 2022, Fall 2023, Fall 2024)"
 collection: teaching
 type: "Undergraduate course"
 venue: "Bocconi University"
-date: 
+date: 2024-10-01
 ---
-
-TA for the classes CLEAM07 and CLEAM08.
 
 Description
 ======
